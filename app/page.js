@@ -3,7 +3,7 @@ import range from "./range";
 
 const minWeek = 2;
 const maxWeek = 10;
-const curWeek = 4;
+const curWeek = 6;
 
 const weekLink = i => (
   <li
